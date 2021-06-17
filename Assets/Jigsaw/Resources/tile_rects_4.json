@@ -1,0 +1,88 @@
+{
+  "tileRects": [
+    {
+      "serializedVersion": "2",
+      "x": 0.0,
+      "y": 854.0,
+      "width": 536.0,
+      "height": 586.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 371.0,
+      "y": 912.0,
+      "width": 744.0,
+      "height": 528.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 938.0,
+      "y": 860.0,
+      "width": 601.0,
+      "height": 580.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 1376.0,
+      "y": 919.0,
+      "width": 624.0,
+      "height": 521.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 0.0,
+      "y": 433.0,
+      "width": 546.0,
+      "height": 586.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 367.0,
+      "y": 370.0,
+      "width": 745.0,
+      "height": 694.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 939.0,
+      "y": 426.0,
+      "width": 599.0,
+      "height": 585.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 1383.0,
+      "y": 371.0,
+      "width": 617.0,
+      "height": 694.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 545.0,
+      "height": 584.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 367.0,
+      "y": 0.0,
+      "width": 747.0,
+      "height": 525.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 939.0,
+      "y": 0.0,
+      "width": 624.0,
+      "height": 584.0
+    },
+    {
+      "serializedVersion": "2",
+      "x": 1382.0,
+      "y": 0.0,
+      "width": 618.0,
+      "height": 529.0
+    }
+  ]
+}
